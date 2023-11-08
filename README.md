@@ -69,7 +69,9 @@ The final outcome was a Power BI dashboard that allows the client to apply vario
 
 ## ScreenShots
 
-**Note:** Some of the logos and general content have been removed and/or modified in order to protect and anonymize the original data.
+> [!NOTE]
+>Some of the logos and general content have been removed and/or modified in order to protect and anonymize the original data
+
 
 ![1](https://github.com/cristiancavelasquez/concomitant-medications/assets/102259605/91a21f70-5b98-4ceb-922b-5a7731bfcdb3)
 
