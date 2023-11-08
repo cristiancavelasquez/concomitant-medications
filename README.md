@@ -15,7 +15,7 @@ This concomitance report is of significant importance to the supplier, as it all
 
 ## Development
 
-Currently, we have access to the information from medical prescriptions that are delivered to our supplier's pharmacies. In our database, we have columns containing data such as prescription ID, prescribed product, quantity, city, physician, and more. Each row represents a unique product, so there can be multiple rows associated with the same prescription. However, at this moment, we are only interested in two columns: prescription ID and the prescribed medication.
+Currently, we have access to the information from medical prescriptions that are delivered to our supplier's pharmacies. In our database, we have columns containing data such as prescription ID, prescribed product, quantity, city, physician, and more. Each row represents an unique product, so there can be multiple rows associated with the same prescription. However, at this moment, we are only interested in two columns: prescription ID and the prescribed medication.
 
 ![ssh1](https://github.com/cristiancavelasquez/concomitant-medications/assets/102259605/7535347e-2c52-4827-998f-248d1f85fa16)
 
